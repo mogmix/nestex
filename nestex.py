@@ -4,7 +4,7 @@ Especially useful for larger documents with nested output directories.
 Here, latexmk will fail as it will not make all subdirectories.
 
 Usage:
-    python build.py
+    python nestex.py
 
 From there, you can navigate through the options.
 """

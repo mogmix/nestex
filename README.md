@@ -9,6 +9,6 @@ Here, latexmk will usually fail as it will not make all subdirectories.
 
 1. Configure the environmental variables and paths at the top of the script to suit your structure.
 
-2. `python build.py`
+2. `python nestex.py`
 
 3. From there, you can navigate through the options.
